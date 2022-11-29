@@ -22,12 +22,6 @@ public class Main {
     }
 
 
-
-
-
-
-
-
 //            FileWriter nFile = new FileWriter("file1.txt");
 //
 //            nFile.write("Хокку родом из глубин России \nПодобен лучу самурайский клинок \nИ тот затупился \nПроклятая килька в томате!!");
