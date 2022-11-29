@@ -23,6 +23,7 @@ public class Interface extends JFrame {
         Font BigFontTR = new Font("TimesRoman", Font.BOLD, 25);//Тут все про шрифт)
         send_batton.setFont(BigFontTR);//применяем шрифт к кнопке
         container.add(send_batton);
+
         Dimension screenSize = java.awt.Toolkit.getDefaultToolkit().getScreenSize();
         System.out.println(screenSize.getWidth() );
         System.out.println(screenSize.getHeight());

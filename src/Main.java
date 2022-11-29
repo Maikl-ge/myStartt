@@ -18,7 +18,6 @@ public class Main {
         Interface form = new Interface();
         form.setVisible(true);
 
-
     }
 
 
